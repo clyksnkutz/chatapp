@@ -13,7 +13,7 @@ function App() {
           Second line
         </p>
         <p>
-          Third line
+          Whats up! 
         </p>
         <a
           className="App-link"
