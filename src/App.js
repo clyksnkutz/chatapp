@@ -12,6 +12,9 @@ function App() {
         <p>
           Second line
         </p>
+        <p>
+          Third line
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
